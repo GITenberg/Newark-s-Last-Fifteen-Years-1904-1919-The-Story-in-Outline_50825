@@ -1,10 +1,16 @@
 _repo: Newark-s-Last-Fifteen-Years-1904-1919-The-Story-in-Outline_50825
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50825-h/images/cover.jpg
 creator:
   author:
     agent_name: Library, Newark Public
     gutenberg_agent_id: '46102'
     url: http://www.gutenberg.org/2009/agents/46102
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50825#Newark-s-Last-Fifteen-Years-1904-1919-The-Story-in-Outline
 gutenberg_issued: '2016-01-02'
 gutenberg_type: Text
 identifiers:
